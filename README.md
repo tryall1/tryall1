@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 28-year-old web developer with extensive experience in SEO and a strong background in front-end technologies such as HTML, CSS, JavaScript (React.js), and PHP. Skilled in optimizing website performance and creating user-friendly interfaces. <br> <br>
 🌍 Based in Hannover, Germany.
 
+Projects:
+## Crypto Portfolio Dashboard
+Link to the live demo [GitHub Pages Deployment](https://tryall1.github.io/react/)
+- 📡 **Working with APIs**
+- 📊 **List and diagram of actual crypto assets**
+- 📈 **Displaying prices, percentage growth & decline**
+- ➕➖ **Adding/deleting new assets**
+
 ### 📞 Contact Information:
 📧 ilya.fylymonov@gmail.com  
 
