@@ -1,33 +1,44 @@
 ## Hi there 👋
 
-<!--
-**tryall1/tryall1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+28-year-old web developer with extensive experience in SEO and a strong background in front-end technologies such as:
+* React.js/Next.js,
+* HTML, CSS/SCSS/Tailwind,
+* JavaScript/TypeScript, jQuery,
+* PHP/MySQL
+* Wordpress
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-28-year-old web developer with extensive experience in SEO and a strong background in front-end technologies such as HTML, CSS, JavaScript (React.js), and PHP. Skilled in optimizing website performance and creating user-friendly interfaces. <br> <br>
+Skilled in optimizing website performance and creating user-friendly interfaces. <br> <br>
 🌍 Based in Hannover, Germany.
 
-Projects:
-## Crypto Portfolio Dashboard
-Link to the live demo [GitHub Pages Deployment](https://tryall1.github.io/react/)
-- 📡 **Working with APIs**
-- 📊 **List and diagram of actual crypto assets**
-- 📈 **Displaying prices, percentage growth & decline**
-- ➕➖ **Adding/deleting new assets**
+# Projects:
+## Crypto Portfolio Dashboard (React + Vite)
+Link to the live demo on GitHub Pages [GitHub Pages Deployment](https://tryall1.github.io/react/)
+- 📡 Working with APIs
+- 📊 List and diagram of actual crypto assets
+- 📈 Displaying prices, percentage growth & decline
+- ➕➖ Adding/deleting new assets
+
+## Hotel reservation front-end part 
+This project is a front-end implementation of a hotel booking website. It provides users a visually appealing and responsive interface for exploring and booking hotel accommodations.
+### UI Kit
+* [Form Elements](https://tryall1.github.io/toxin/form.html)
+* [Cards](https://tryall1.github.io/toxin/cards.html)
+* [Headers & Footers](https://tryall1.github.io/toxin/headers-footers.html)
+
+### Website
+* [Landing Page](https://tryall1.github.io/toxin/)
+* [Search Room](https://tryall1.github.io/toxin/room-search.html)
+
+Link to the live demo on GitHub Pages [GitHub Pages Deployment](https://tryall1.github.io/toxin/)
+* **Markup:** [Pug](https://pugjs.org/api/getting-started.html)
+* **Source code:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* **Libraries:** [jQuery](https://jquery.com/)
+* **Bundling:** [Webpack](https://webpack.js.org/)
+
+The project uses the [BEM methodology](https://en.bem.info/methodology/) for markup and styles.
 
 ### 📞 Contact Information:
-📧 ilya.fylymonov@gmail.com  
+📧 ilya.fylymonov@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tryall1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tryall1&layout=compact&hide_progress=true)
