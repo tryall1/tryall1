@@ -10,6 +10,9 @@
 Skilled in optimizing website performance and creating user-friendly interfaces. <br> <br>
 🌍 Based in Hannover, Germany.
 
+### 📞 Contact Information:
+📧 ilya.fylymonov@gmail.com
+
 # Projects:
 ## Crypto Portfolio Dashboard (React + Vite)
 Link to the live demo on GitHub Pages [GitHub Pages Deployment](https://tryall1.github.io/react/)
@@ -42,9 +45,6 @@ Link to the live demo on GitHub Pages [GitHub Pages Deployment](https://tryall1.
 * **Bundling:** [Webpack](https://webpack.js.org/)
 
 The project uses the [BEM methodology](https://en.bem.info/methodology/) for markup and styles.
-
-### 📞 Contact Information:
-📧 ilya.fylymonov@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tryall1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tryall1&layout=compact&hide_progress=true)
