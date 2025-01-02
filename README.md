@@ -18,6 +18,12 @@ Link to the live demo on GitHub Pages [GitHub Pages Deployment](https://tryall1.
 - 📈 Displaying prices, percentage growth & decline
 - ➕➖ Adding/deleting new assets
 
+## Local cinema and showtime aggregator (Next.js + Tailwind)
+Links to the live demo:
+* [Link to the main page](https://cinema-one-khaki1.vercel.app/)
+* [Theatres page](https://cinema-one-khaki1.vercel.app/theatres)
+* [Showtime page](https://cinema-one-khaki1.vercel.app/sessions/)
+
 ## Hotel reservation front-end part 
 This project is a front-end implementation of a hotel booking website. It provides users a visually appealing and responsive interface for exploring and booking hotel accommodations.
 ### UI Kit
